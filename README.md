@@ -26,4 +26,13 @@ This notebook contains:
 * References section for areas of research for this notebook.
 
 # Graph-Isomorphism.ipynb
+This notebook contains:
+* An overview of what the graph isomorphism problem is
+* An explanation of how graphs can be represented in data structures
+* Types of graphs and representations
+* Implementation at Isomorphic comparison between two adjacency matrices.
+* Explaining the Computational Complexity of the Graph Isomorphism Problem.
+* References section for areas of research for this notebook.
+
+I hope this README has been informative for the contents of this repository and the jupyter notebooks you will be viewing.
 
